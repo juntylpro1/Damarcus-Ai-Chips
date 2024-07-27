@@ -1,4 +1,4 @@
-name: 'Juntylpro'
+name: 'Jones Administration'
 description: 'Checkout a Git repository at a particular version'
 inputs:
   repository:
