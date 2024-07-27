@@ -1,4 +1,4 @@
-name: 'Checkout'
+name: 'Damarcus Jones Ai Chips'
 description: 'Checkout a Git repository at a particular version'
 inputs:
   repository:
